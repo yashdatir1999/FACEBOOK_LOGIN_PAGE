@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+img{
+    /* border: 5px solid black; */
+    height: 65px;
+    margin-top: 175px;
+    margin-left: 160px;    
+}
+p{
+    margin-left: 160px;
+    margin-top: -5px;
+    padding-right: -700px;
+    font-size: 30px;
+    
+}
+form{
+    margin-top: -200px;
+    margin-right: 150px;
+    
+}
+input{
+    width: 300px;
+    margin-bottom: 10px;
+    padding: 15px ;
+}
+#login{
+    width: 300px;
+    padding: 12px;
+    background:  rgb(61, 137, 236);
+    color: white;
+    border: 0px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+a{
+    border: 0px ;
+    padding-right: 90px;
+    padding-top: 7px;
+    color:  rgb(61, 137, 236);
+    font-size: 15px;
+}
+#cna{
+    width: 170px;
+    padding-top: 7px 10px 7px 10px;
+    margin-right: 70px;
+    margin-top: 20px;
+    border-radius: 7px;
+    background-color: rgb(74, 182, 47);
+    color: rgb(245, 242, 242);
+    border: 0px;
+    font-size: 15px;
+    
+}
+span{
+    width: 70px;
+    margin-left: 150px;
+    color:  rgb(151, 148, 148);
+}
+#cap{
+    font-size: 14px;
+    margin-right: 60px;
+    padding-left: 630px;
+}
+.ll{
+    text-decoration: none;
+    font-size: 40px;
+    /* border: 5px solid black; */
+    font-size: 10px;
+    padding: 5px;
+    margin-left: 10px;
+    color: rgb(151, 148, 148);
+}
+#eng{
+    /* border: 5px solid black; */
+    margin-left: 150px;
+}
+#btn{
+    /* background-color: red; */
+    border: none;
+    width: 1vmax;
+    color: black;
+}
